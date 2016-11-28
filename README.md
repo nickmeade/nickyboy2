@@ -1,2 +1,1 @@
-# nickyboy2
-lol
+# nickyboy2.github.io
