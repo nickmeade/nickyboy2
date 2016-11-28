@@ -1,0 +1,29 @@
+body { background: ivory;
+       font-family: 'Didact Gothic', sans-serif }
+
+h1 { font-family: 'Syncopate', sans-serif;
+     font-weight: bold;
+     font-size: 200%;
+     margin: 0;
+     text-align: right }
+     
+h2 { font-family: 'Syncopate', sans-serif;
+     font-weight: normal;
+     margin: 0;
+     font-size: 100%;
+     text-align: right }
+
+nav { font-family: 'Syncopate', sans-serif;
+      text-align: right;
+      font-weight: bold; }
+nav ul { margin: 0 }
+nav li { display: inline-block;
+         border: 1px solid black;
+         padding: 1px; margin: 1px;
+         font-size: 80%;
+         background: #fc9 }
+
+#portrait { height: 200px;
+            float: right; 
+            border: 1px solid black;
+            margin: 5px;}
